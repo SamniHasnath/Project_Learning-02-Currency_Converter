@@ -1,5 +1,3 @@
-## Currency-Converter
-
 <h1 align="center"> Currency Converter App </h1>
 
 A simple Currency Converter app that allows users to convert one currency into another using real-time exchange rates. The application uses a free API to fetch live exchange rates and perform the currency conversion. It features a clean and intuitive user interface.
